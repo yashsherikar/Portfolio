@@ -45,10 +45,10 @@ const projects = [
         demoLink: "#",
         screenshots: [
             { url: "assets/images/VR_LOGO.png", caption: "VR Computer Services Logo" },
-            { url: "assets/images/VR_ENG_1.jpeg", caption: "Engineer Profile" },
-            { url: "assets/images/VR_ENG_2.jpeg", caption: "Team Member" },
-            { url: "assets/images/VR_ENG_3.jpeg", caption: "Service Engineer" },
-            { url: "assets/images/VR_ENG_4.jpeg", caption: "Field Engineer" }
+            { url: "assets/images/VR_ENG_1.jpg", caption: "Engineer Profile" },
+            { url: "assets/images/VR_ENG_2.jpg", caption: "Team Member" },
+            { url: "assets/images/VR_ENG_3.jpg", caption: "Service Engineer" },
+            { url: "assets/images/VR_ENG_4.jpg", caption: "Field Engineer" }
         ]
     },
     // 2) Doctor Patient Management
@@ -124,7 +124,7 @@ const projects = [
                      "- Clean console output with success/failure indicators",
         tech: ["Python", "OS Module", "ctypes", "datetime", "File I/O"],
         image: "project-5",
-        thumbnail: "assets/images/PAYMENTSYSTEM2.JPG",
+        thumbnail: "assets/images/META_DATA_UPDATER.JPG",
         codeLink: "#",
         demoLink: "#",
         screenshots: []
@@ -232,7 +232,7 @@ const projects = [
                      "- Admin and user role-based access",
         tech: ["Python", "Tkinter", "MySQL", "CSV Export"],
         image: "project-12",
-        thumbnail: "assets/images/BLOODBANK1.JPG",
+        thumbnail: "assets/images/ATTENDANCE_SYSTEM.JPG",
         codeLink: "#",
         demoLink: "#",
         screenshots: []
