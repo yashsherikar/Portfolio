@@ -399,15 +399,15 @@ const projects = [
                      "<strong>Tech Stack:</strong> Java, Spring Boot 3.2, MongoDB Atlas, Groq AI (LLaMA), JWT, Docker, Vanilla JS, HTML5/CSS3",
         tech: ["Java", "Spring Boot 3.2", "MongoDB", "Groq AI (LLaMA)", "JWT/Spring Security", "Docker", "Render", "Vanilla JS", "HTML5/CSS3", "Vercel"],
         image: "project-22",
-        thumbnail: "assets/images/gymcal1.png",
+        thumbnail: "assets/images/gymcal1.jpg",
         codeLink: "https://github.com/yashsherikar",
         demoLink: "https://gymcal-frontend.vercel.app/",
         screenshots: [
-            { url: "assets/images/gymcal1.png", caption: "Dashboard – Calorie Ring & Macro Progress" },
-            { url: "assets/images/gymcal2.png", caption: "AI Food Search & Nutrition Breakdown" },
-            { url: "assets/images/gymcal3.png", caption: "AI Workout Plan Generator" },
-            { url: "assets/images/gymcal4.png", caption: "Weekly Calorie History Chart" },
-            { url: "assets/images/gymcal5.png", caption: "User Profile & BMI Details" }
+            { url: "assets/images/gymcal1.jpg", caption: "Dashboard – Calorie Ring & Macro Progress" },
+            { url: "assets/images/gymcal2.jpg", caption: "AI Food Search & Nutrition Breakdown" },
+            { url: "assets/images/gymcal3.jpg", caption: "AI Workout Plan Generator" },
+            { url: "assets/images/gymcal4.jpg", caption: "Weekly Calorie History Chart" },
+            { url: "assets/images/gymcal5.jpg", caption: "User Profile & BMI Details" }
         ]
     }
 ];
