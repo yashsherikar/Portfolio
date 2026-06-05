@@ -848,7 +848,7 @@ section {
 /* GymCal – AI Fitness & Nutrition Tracker (index 22) */
 .project-22 .project-image {
     background: linear-gradient(135deg, #0a1a0a 0%, #0d2b1a 50%, #1a5c2e 100%);
-    background-image: url('../images/gymcal1.png');
+    background-image: url('../images/gymcal1.jpg');
     background-size: cover;
     background-position: center top;
     display: flex;
