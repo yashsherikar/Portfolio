@@ -70,7 +70,7 @@ const projects = [
     title: "Personal Portfolio Website",
     description: "This portfolio itself — an interactive 3D personal site with a physics-based ID card, animated tech stack, and project showcase built with React and Three.js.",
     tech: ["React", "TypeScript", "Three.js", "Tailwind CSS", "Vite"],
-    thumbnail: null,
+    thumbnail: import.meta.env.BASE_URL + "assets/projects/PORTFOLIO1.png",
     github: "https://github.com/yashsherikar/Portfolio",
     demo: "https://yashsherikar.github.io/Portfolio/",
   },
