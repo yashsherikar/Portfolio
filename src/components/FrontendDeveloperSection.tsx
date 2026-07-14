@@ -161,7 +161,7 @@ export default function FrontendDeveloperSection() {
 
         <div className="mt-8 flex flex-col [@media(min-width:540px)]:flex-row items-start md:items-center gap-4">
           {/* Show Card Button */}
-          {/* 
+          {
          <motion.button
             initial={{ opacity: 0, y: 30 }}
             animate={inView ? { opacity: 1, y: 0 } : {}}
@@ -171,7 +171,7 @@ export default function FrontendDeveloperSection() {
           >
             {showCard ? "Hide Card" : "Show Card"}
           </motion.button>
-          */} 
+          } 
 
           {/* About Button */}
           <motion.button
