@@ -44,7 +44,7 @@ const projects = [
     badge: "FLAGSHIP",
     description: "Google-Docs-style live code editor — multiple users edit, see colored cursors, and run code together in real time via WebSocket/STOMP. Executes Java, Python, JS, C++, C#, Go via Judge0.",
     tech: ["Java", "Spring Boot", "WebSocket/STOMP", "React", "TypeScript", "Monaco Editor", "Docker"],
-    thumbnail: null,
+    thumbnail: import.meta.env.BASE_URL + "assets/projects/CODETOGETHER1.png",
     github: "https://github.com/yashsherikar/code-together",
     demo: "https://code-together-six.vercel.app/",
   },
